@@ -1,0 +1,8 @@
+
+# Appended configuration 
+nodeID = 1
+location = LivingRoom
+monitor = true
+stroage = true
+calculate = false
+#neighborsBlackList = 
